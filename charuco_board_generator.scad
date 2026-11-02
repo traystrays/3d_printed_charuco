@@ -27,11 +27,11 @@
 export_mode = "Preview"; // [Preview, White Base, Black Pattern]
 
 /* [Geometry Settings] */
-sq_size = 15;             // Grid square size (mm)
-marker_size = 11;         // Marker size (mm) - leaves black border
+sq_size = 17;             // Grid square size (mm)
+marker_size = 13;         // Marker size (mm) - leaves black border
 board_cols = 8;          // Number of columns
 board_rows = 6;          // Number of rows
-border_size = 10;         // Border width (mm) around the chart
+border_size = 5;         // Border width (mm) around the chart
 
 // Base thickness (mm).
 thickness = 4;
